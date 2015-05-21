@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<array>
+		<string>CompositeIndexEquities</string>
+		<string>SectorVolume</string>
+		<string>SectorTotalCap</string>
+		<string>SectorTradableCap</string>
+		<string>EquityCodes</string>
+		<string>CompositeIndexChart</string>
+		<string>TodayNews</string>
+		<string>StockInTheNews</string>
+		<string>EquityChart</string>
+		<string>TopMovingEquites</string>
+		<string>DailyCompositeIndex</string>
+		<string>EquityChart</string>
+	</array>
+</dict>
+</plist>

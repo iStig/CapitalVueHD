@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Language</key>
+	<string>Chinese</string>
+	<key>English</key>
+	<dict>
+		<key>OK</key>
+		<string>OK</string>
+		<key>LanguageChangedMessage</key>
+		<string>Your language settings have been changed. Please select “Ok” and restart the CapitalVue app for the change to take effect.</string>
+		<key>LanguageChangedTitle</key>
+		<string>CapitalVue App Closing</string>
+		<key>Total</key>
+		<string>Total</string>
+		<key>Market</key>
+		<string>Market</string>
+		<key>Home</key>
+		<string>Home</string>
+		<key>Macro</key>
+		<string>Macro</string>
+		<key>MySecurity</key>
+		<string>MySecurity</string>
+		<key>Industry</key>
+		<string>Industry</string>
+		<key>MyStockNaviCaption</key>
+		<string>  STOCK          CLOSE            CHG            CHG(%)</string>
+		<key>MarketTradableSentence</key>
+		<string>%1$@ has a tradable market capitalization of %2$@. %3$@ has the second largest tradable market capitalization of %4$@</string>
+		<key>MarketTurnoverSentence</key>
+		<string>%1$@ has the highest turnover of %3$@%%. %4$@ has the second highest turnover of %6$@%%</string>
+		<key>MarketGainerSentence</key>
+		<string>%1$@ is the top gainer today at %2$@%%. %3$@ is the second top gainer at %4$@%%</string>
+		<key>6 months</key>
+		<string>6 months</string>
+		<key>AVG P/B:</key>
+		<string>AVG P/B:</string>
+		<key>AVG P/E:</key>
+		<string>AVG P/E:</string>
+		<key>CapitalVue Mobile Feedback</key>
+		<string>CapitalVue Mobile Feedback</string>
+		<key>CHG(%):</key>
+		<string>CHG(%):</string>
+		<key>CO.(#):</key>
+		<string>CO.(#):</string>
+		<key>Daily Sector Market Statistics</key>
+		<string>Daily Sector Market Statistics</string>
+		<key>DATE: %@</key>
+		<string>DATE: %@</string>
+		<key>DECLINERS:</key>
+		<string>DECLINERS:</string>
+		<key>Discretionary</key>
+		<string>Discretionary</string>
+		<key>Energy</key>
+		<string>Energy</string>
+		<key>Equity</key>
+		<string>Equity</string>
+		<key>Financial</key>
+		<string>Financial</string>
+		<key>Financials</key>
+		<string>Financials</string>
+		<key>Health Care</key>
+		<string>Health Care</string>
+		<key>Industrials</key>
+		<string>Industrials</string>
+		<key>IT</key>
+		<string>IT</string>
+		<key>Latest News</key>
+		<string>Latest News</string>
+		<key>Loading %@</key>
+		<string>Loading %@</string>
+		<key>Maket Summary</key>
+		<string>Market Summary</string>
+		<key>Materials</key>
+		<string>Materials</string>
+		<key>more...</key>
+		<string>more...</string>
+		<key>Most Active</key>
+		<string> Most Active</string>
+		<key>NET MARGIN(%):</key>
+		<string>NET MARGIN(%):</string>
+		<key>No data for this code of stock.</key>
+		<string>No data for this code of stock.</string>
+		<key>ROE(%):</key>
+		<string>ROE(%):</string>
+		<key>Sector Gainers/Losers</key>
+		<string>Sector Gainers/Losers</string>
+		<key>Sorry! No Entry Available</key>
+		<string>Sorry! No Entry Available</string>
+		<key>SSE Bond Index</key>
+		<string>SSE Bond Index</string>
+		<key>SSE Equity Index</key>
+		<string>SSE Equity Index</string>
+		<key>SSE Fund Index</key>
+		<string>SSE Fund Index</string>
+		<key>Staples</key>
+		<string>Staples</string>
+		<key>Telecom</key>
+		<string>Telecom</string>
+		<key>TOP MOVING SECURITES</key>
+		<string>TOP MOVING SECURITIES</string>
+		<key>Total Cap(¥)</key>
+		<string>Total Cap(¥)</string>
+		<key>Total\n%@</key>
+		<string>Total\n%@</string>
+		<key>Tradable Cap(¥)</key>
+		<string>Tradable Cap(¥)</string>
+		<key>TRADABLE CAP:</key>
+		<string>TRADABLE CAP:</string>
+		<key>Turnover(¥)</key>
+		<string>Turnover(¥)</string>
+		<key>Utilities</key>
+		<string>Utilities</string>
+		<key>Index Info</key>
+		<string>Index Info</string>
+		<key>Cancel</key>
+		<string>Cancel</string>
+		<key>Clear Cache</key>
+		<string>Clear Cache</string>
+		<key>Buy Service:</key>
+		<string>Buy Service:</string>
+		<key>CapitalVue Financial Terminal</key>
+		<string>CapitalVue Financial Terminal</string>
+		<key>GAINERS:</key>
+		<string>GAINERS:</string>
+		<key>Today&apos;s News</key>
+		<string>Today&apos;s News</string>
+		<key>StockIntheNews</key>
+		<string>Stocks In the News</string>
+		<key>Headline News</key>
+		<string>Headline News</string>
+		<key>TabBarTitles</key>
+		<array>
+			<string>Home</string>
+			<string>Market</string>
+			<string>Industry</string>
+			<string>Macro</string>
+			<string>News</string>
+			<string>My Stocks</string>
+		</array>
+		<key>NetworkFailedTitle</key>
+		<string>Sorry</string>
+		<key>NetworkFailedMessage</key>
+		<string>Service Unavailable. Please check your Internet connection and refresh the page.</string>
+		<key>NetworkFailedOK</key>
+		<string>OK</string>
+		<key>NewsFirstList</key>
+		<array>
+			<string>Headline News</string>
+			<string>Latest News</string>
+			<string>Macro</string>
+			<string>Discretianary</string>
+			<string>Staples</string>
+			<string>Financials</string>
+			<string>Health Care</string>
+			<string>Industrials</string>
+			<string>Materials</string>
+			<string>Energy</string>
+			<string>Telecom</string>
+			<string>Utilities</string>
+			<string>IT</string>
+		</array>
+		<key>Related News</key>
+		<string>Related News</string>
+		<key>Snapshot</key>
+		<string>Snapshot</string>
+		<key>Most Activated</key>
+		<string>Most Activated</string>
+		<key>Sector Info</key>
+		<string>Sector Info</string>
+		<key>Pie Chart</key>
+		<string>Pie Chart</string>
+		<key>Top Gainers</key>
+		<string>Top Gainers</string>
+		<key>Top Decliners</key>
+		<string>Top Decliners</string>
+		<key>Daily Sector Market Statistcs</key>
+		<string>Daily Sector Market Statistcs</string>
+		<key>Turnover(￥)</key>
+		<string>Turnover(￥)</string>
+		<key>Volume</key>
+		<string>Volume</string>
+		<key>Total Cap(￥)</key>
+		<string>Total Cap(￥)</string>
+		<key>Tradable Cap(￥)</key>
+		<string>Tradable Cap(￥)</string>
+		<key>Detail</key>
+		<string>Detail</string>
+		<key>Back</key>
+		<string>Back</string>
+		<key>DATE</key>
+		<string>DATE</string>
+		<key>DATE:</key>
+		<string>DATE: %@</string>
+		<key>MacroNaviItems</key>
+		<array>
+			<dict>
+				<key>group</key>
+				<string>Macro</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Gross Domestic Product</string>
+						<key>leftAxis</key>
+						<string>34888</string>
+						<key>rightAxis</key>
+						<string>34889</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Primary Industry Output</string>
+						<key>leftAxis</key>
+						<string>20626</string>
+						<key>rightAxis</key>
+						<string>20627</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Secondary Industry Output</string>
+						<key>leftAxis</key>
+						<string>20630</string>
+						<key>rightAxis</key>
+						<string>20631</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Tertiary Industry Output</string>
+						<key>leftAxis</key>
+						<string>20628</string>
+						<key>rightAxis</key>
+						<string>20629</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (100M Kilowatt-Hours)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Nationwide Electricity Generation</string>
+						<key>leftAxis</key>
+						<string>121548</string>
+						<key>rightAxis</key>
+						<string>121549</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Total Government Expenditure</string>
+						<key>leftAxis</key>
+						<string>21992</string>
+						<key>rightAxis</key>
+						<string>21993</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Fixed Asset Investment</string>
+						<key>leftAxis</key>
+						<string>21093</string>
+						<key>rightAxis</key>
+						<string>21094</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (USD 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Foreign Direct Investment</string>
+						<key>leftAxis</key>
+						<string>21975</string>
+						<key>rightAxis</key>
+						<string>21976</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>Financial</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>M2 Money Supply</string>
+						<key>leftAxis</key>
+						<string>1007</string>
+						<key>rightAxis</key>
+						<string>1009</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Loan Balance (RMB 100 Million)</string>
+							<string>YTD Change (RMB 100 Million)</string>
+						</array>
+						<key>title</key>
+						<string>Loan Balance</string>
+						<key>leftAxis</key>
+						<string>796</string>
+						<key>rightAxis</key>
+						<string>798</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Deposit Balance (RMB 100 M)</string>
+							<string>YTD Change (RMB 100M)</string>
+						</array>
+						<key>title</key>
+						<string>Deposit Balance</string>
+						<key>leftAxis</key>
+						<string>873</string>
+						<key>rightAxis</key>
+						<string>875</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>Consumption and Income</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Same Month Prev. Year=100</string>
+							<string></string>
+						</array>
+						<key>title</key>
+						<string>CPI</string>
+						<key>leftAxis</key>
+						<string>21400</string>
+						<key>rightAxis</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Same Month Prev. Year=100</string>
+							<string>YTD: Prev. Year=100</string>
+						</array>
+						<key>title</key>
+						<string>Retail Price Index</string>
+						<key>leftAxis</key>
+						<string>21476</string>
+						<key>rightAxis</key>
+						<string>21477</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Total Retail Sales</string>
+						<key>leftAxis</key>
+						<string>37115</string>
+						<key>rightAxis</key>
+						<string>37116</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Urban Retail Sales</string>
+						<key>leftAxis</key>
+						<string>37123</string>
+						<key>rightAxis</key>
+						<string>37124</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Rural Retail Sales</string>
+						<key>leftAxis</key>
+						<string>37125</string>
+						<key>rightAxis</key>
+						<string>37126</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Rural Per Capita Cash Income</string>
+						<key>leftAxis</key>
+						<string>22039</string>
+						<key>rightAxis</key>
+						<string>22040</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (RMB)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Urban Per Capita Disposable Income</string>
+						<key>leftAxis</key>
+						<string>22021</string>
+						<key>rightAxis</key>
+						<string>22022</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>Trade</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (USD 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Total Exports</string>
+						<key>leftAxis</key>
+						<string>21751</string>
+						<key>rightAxis</key>
+						<string>21752</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (USD 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Total Imports</string>
+						<key>leftAxis</key>
+						<string>21763</string>
+						<key>rightAxis</key>
+						<string>21764</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (USD 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Total Foreign Trade</string>
+						<key>leftAxis</key>
+						<string>21759</string>
+						<key>rightAxis</key>
+						<string>21760</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Value (USD 100 Million)</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Trade Surplus</string>
+						<key>leftAxis</key>
+						<string>21755</string>
+						<key>rightAxis</key>
+						<string>21756</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>Industrial</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>100 Million Tons</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Highway Freight Volume</string>
+						<key>leftAxis</key>
+						<string>100295</string>
+						<key>rightAxis</key>
+						<string>100296</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>100 Million Tons</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Railway Freight Volume</string>
+						<key>leftAxis</key>
+						<string>100332</string>
+						<key>rightAxis</key>
+						<string>100333</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>10,000 Tons</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Air Freight Volume</string>
+						<key>leftAxis</key>
+						<string>100775</string>
+						<key>rightAxis</key>
+						<string>100776</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Number of Automobiles</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Automobile Production</string>
+						<key>leftAxis</key>
+						<string>95799</string>
+						<key>rightAxis</key>
+						<string>95800</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Tons</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Raw Coal Production</string>
+						<key>leftAxis</key>
+						<string>120739</string>
+						<key>rightAxis</key>
+						<string>120740</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Tons</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Crude Steel Production</string>
+						<key>leftAxis</key>
+						<string>71433</string>
+						<key>rightAxis</key>
+						<string>71434</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>Date</string>
+							<string>Tons</string>
+							<string>Growth(%)</string>
+						</array>
+						<key>title</key>
+						<string>Cement Production</string>
+						<key>leftAxis</key>
+						<string>82350</string>
+						<key>rightAxis</key>
+						<string>82351</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Date</key>
+		<string>Date</string>
+		<key>Growth</key>
+		<string>Growth</string>
+		<key>Value</key>
+		<string>Value</string>
+		<key>VALUE</key>
+		<string>VALUE</string>
+		<key>GROWTH</key>
+		<string>GROWTH</string>
+		<key>TapTipsOn</key>
+		<string>Tap two fingers to show fullscreen.</string>
+		<key>TapTipsOff</key>
+		<string>Tap two fingers to exit fullscreen.</string>
+		<key>My Stock</key>
+		<string>My Stock</string>
+		<key>Edit</key>
+		<string>Edit</string>
+		<key>Stock</key>
+		<string>Stock</string>
+		<key>Fund</key>
+		<string>Fund</string>
+		<key>Bond</key>
+		<string>Bond</string>
+		<key>StockFirstHeader</key>
+		<string>  STOCK          CLOSE            CHG            CHG(%)</string>
+		<key>News</key>
+		<string>News</string>
+		<key>Balance Sheet</key>
+		<string>Balance Sheet</string>
+		<key>Income Statement</key>
+		<string>Income Statement</string>
+		<key>Cash Flow</key>
+		<string>Cash Flow</string>
+		<key>Info</key>
+		<string>Info</string>
+		<key>Intraday</key>
+		<string>Intraday</string>
+		<key>5 days</key>
+		<string>5 days</string>
+		<key>1 month</key>
+		<string>1 month</string>
+		<key>3 months</key>
+		<string>3 months</string>
+		<key>1 year</key>
+		<string>1 year</string>
+		<key>2 years</key>
+		<string>2 years</string>
+		<key>Price</key>
+		<string>Price</string>
+		<key>IndustrySectorList</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Energy</string>
+				<key>Code</key>
+				<string>10</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Materials</string>
+				<key>Code</key>
+				<string>15</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Industrials</string>
+				<key>Code</key>
+				<string>20</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Consumer Discretionary</string>
+				<key>Code</key>
+				<string>25</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Consumer Staples</string>
+				<key>Code</key>
+				<string>30</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Health Care</string>
+				<key>Code</key>
+				<string>35</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Financials</string>
+				<key>Code</key>
+				<string>40</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Information Technology</string>
+				<key>Code</key>
+				<string>45</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Telecom Services</string>
+				<key>Code</key>
+				<string>50</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Utilities</string>
+				<key>Code</key>
+				<string>55</string>
+			</dict>
+		</array>
+		<key>LangCode</key>
+		<string>en</string>
+		<key>MarketStockLongSentence1</key>
+		<string>%1$@ has a tradable market capitalization of %2$@. %3$@ has the second largest tradable market capitalization of %4$@</string>
+		<key>MarketStockLongSentence2</key>
+		<string>%1$@ is the top gainer today at %2$@%%. %3$@ is the second top gainer at %4$@%%</string>
+		<key>MarketStockLongSentence3</key>
+		<string>%1$@ has the highest turnover of %3$@%%. %4$@ has the second highest turnover of %6$@%%</string>
+		<key>Largest Market Cap</key>
+		<string>Largest Market Cap</string>
+		<key>Daily Top Gainer</key>
+		<string>Daily Top Gainer</string>
+		<key>Highest Turnover(%)</key>
+		<string>Highest Turnover(%)</string>
+		<key>Close:</key>
+		<string>CLOSE:</string>
+		<key>CHG:</key>
+		<string>CHG:</string>
+		<key>Company Info</key>
+		<string>Company Info</string>
+		<key>Up:</key>
+		<string>Up:</string>
+		<key>Down:</key>
+		<string>Down:</string>
+		<key>More</key>
+		<string>More</string>
+		<key>Color</key>
+		<dict>
+			<key>Gainers</key>
+			<string>0.0,0.608,0.247,1.0</string>
+			<key>Decliners</key>
+			<string>1.0,0.0,0.031,1.0</string>
+			<key>GainersRate</key>
+			<string>0.0,0.608,0.247,1.0</string>
+			<key>LosersRate</key>
+			<string>1.0,0.0,0.031,1.0</string>
+			<key>GainersRateLabel</key>
+			<string>0.05,0.4627,0.079,1.0</string>
+			<key>LosersRateLabel</key>
+			<string>0.914,0.008,0.153,1.0</string>
+		</dict>
+		<key>This feature is unavailable with your current version of the application.</key>
+		<string>This feature is unavailable with your current version of the application.</string>
+		<key>Ticker</key>
+		<string>Code/Name</string>
+	</dict>
+	<key>Chinese</key>
+	<dict>
+		<key>OK</key>
+		<string>确定</string>
+		<key>LanguageChangedMessage</key>
+		<string>语言被更改,CapitalVue即将关闭以使更改生效，请重新打开CapitalVue.</string>
+		<key>LanguageChangedTitle</key>
+		<string>CapitalVue即将关闭</string>
+		<key>Total</key>
+		<string>总共</string>
+		<key>MyStockNaviCaption</key>
+		<string>  股票              收盘价              涨跌               涨跌幅</string>
+		<key>Home</key>
+		<string>首页</string>
+		<key>Market</key>
+		<string>市场</string>
+		<key>Industry</key>
+		<string>行业</string>
+		<key>Macro</key>
+		<string>宏观</string>
+		<key>MarketTradableSentence</key>
+		<string>%1$@ 拥有 %2$@ 亿元的最大流通市值 . %3$@ 拥有 %4$@ 亿元排名第二。 </string>
+		<key>MarketTurnoverSentence</key>
+		<string>%1$@ 今天的换手率最高，达到%3$@%%。%4$@ 换手率达%6$@%%排名第二。</string>
+		<key>MarketGainerSentence</key>
+		<string>%1$@ 今天的涨幅最高，达到%2$@%%。%3$@ 涨幅达%4$@%%排名第二。</string>
+		<key>6 months</key>
+		<string>6月</string>
+		<key>AVG P/B:</key>
+		<string>平均 P/B 值:</string>
+		<key>AVG P/E:</key>
+		<string>平均 P/E 值:</string>
+		<key>CapitalVue Mobile Feedback</key>
+		<string>CapitalVue Mobile反馈</string>
+		<key>CHG(%):</key>
+		<string>涨跌幅(%):</string>
+		<key>CO.(#):</key>
+		<string>公司数.(#):</string>
+		<key>Daily Sector Market Statistics</key>
+		<string>日行业市场数据</string>
+		<key>DATE: %@</key>
+		<string>日期: %@</string>
+		<key>DECLINERS:</key>
+		<string>下跌:</string>
+		<key>Discretionary</key>
+		<string>非日常生活消费品</string>
+		<key>Energy</key>
+		<string>能源</string>
+		<key>Equity</key>
+		<string>股票</string>
+		<key>Financial</key>
+		<string>金融</string>
+		<key>Financials</key>
+		<string>金融</string>
+		<key>Health Care</key>
+		<string>医疗保健</string>
+		<key>Industrials</key>
+		<string>工业</string>
+		<key>IT</key>
+		<string>信息技术</string>
+		<key>Latest News</key>
+		<string>最新新闻</string>
+		<key>Loading %@</key>
+		<string>正在载入 %@</string>
+		<key>Maket Summary</key>
+		<string>市场简报</string>
+		<key>Materials</key>
+		<string>原材料</string>
+		<key>more...</key>
+		<string>更多...</string>
+		<key>Most Active</key>
+		<string>中最活跃的股票</string>
+		<key>NET MARGIN(%):</key>
+		<string>净利润(%):</string>
+		<key>No data for this code of stock.</key>
+		<string>没有该股票的数据</string>
+		<key>ROE(%):</key>
+		<string>回报率(%):</string>
+		<key>Sector Gainers/Losers</key>
+		<string>行业涨／跌幅</string>
+		<key>Sorry! No Entry Available</key>
+		<string>抱歉! 无可用内容</string>
+		<key>SSE Bond Index</key>
+		<string>SSE Bond Index</string>
+		<key>SSE Equity Index</key>
+		<string>SSE Equity Index</string>
+		<key>SSE Fund Index</key>
+		<string>SSE Fund Index</string>
+		<key>Staples</key>
+		<string>日常生活消费品</string>
+		<key>Telecom</key>
+		<string>电信业务</string>
+		<key>TOP MOVING SECURITES</key>
+		<string>振幅最大的证券</string>
+		<key>Total Cap(¥)</key>
+		<string>总市值(¥)</string>
+		<key>Total\n%@</key>
+		<string>总共\n%@</string>
+		<key>Tradable Cap(¥)</key>
+		<string>流通股市值(¥)</string>
+		<key>TRADABLE CAP:</key>
+		<string>流通股市值:</string>
+		<key>Turnover(¥)</key>
+		<string>成交额(¥)</string>
+		<key>Utilities</key>
+		<string>公共事业</string>
+		<key>Index Info</key>
+		<string>指数资料</string>
+		<key>Cancel</key>
+		<string>取消</string>
+		<key>Clear Cache</key>
+		<string>删除缓存数据</string>
+		<key>Buy Service:</key>
+		<string>购买服务:</string>
+		<key>CapitalVue Financial Terminal</key>
+		<string>CapitalVue Financial Terminal</string>
+		<key>GAINERS:</key>
+		<string>上涨:</string>
+		<key>Today&apos;s News</key>
+		<string>今日新闻</string>
+		<key>StockIntheNews</key>
+		<string>新闻中的股票</string>
+		<key>Headline News</key>
+		<string>新闻头条</string>
+		<key>TabBarTitles</key>
+		<array>
+			<string>首页</string>
+			<string>市场</string>
+			<string>行业</string>
+			<string>宏观</string>
+			<string>新闻</string>
+			<string>我的证券</string>
+		</array>
+		<key>NetworkFailedTitle</key>
+		<string>抱歉</string>
+		<key>NetworkFailedMessage</key>
+		<string>无法连接到服务器，请检查连接</string>
+		<key>NetworkFailedOK</key>
+		<string>确定</string>
+		<key>NewsFirstList</key>
+		<array>
+			<string>新闻头条</string>
+			<string>最新新闻</string>
+			<string>宏观</string>
+			<string>非日常生活消费品</string>
+			<string>日常生活消费品</string>
+			<string>金融</string>
+			<string>医疗保健</string>
+			<string>工业</string>
+			<string>原材料</string>
+			<string>能源</string>
+			<string>电信业务</string>
+			<string>公共事业</string>
+			<string>信息技术</string>
+		</array>
+		<key>Related News</key>
+		<string>相关新闻</string>
+		<key>Snapshot</key>
+		<string>股票概览</string>
+		<key>Most Activated</key>
+		<string>最活跃</string>
+		<key>Sector Info</key>
+		<string>行业信息</string>
+		<key>Pie Chart</key>
+		<string>饼图</string>
+		<key>Top Gainers</key>
+		<string>涨幅最大股票</string>
+		<key>Top Decliners</key>
+		<string>跌幅最大股票</string>
+		<key>Daily Sector Market Statistcs</key>
+		<string>日行业市场数据</string>
+		<key>Turnover(￥)</key>
+		<string>成交额(￥)</string>
+		<key>Volume</key>
+		<string>成交量</string>
+		<key>Total Cap(￥)</key>
+		<string>总市值(￥)</string>
+		<key>Tradable Cap(￥)</key>
+		<string>流通股市值(￥)</string>
+		<key>Detail</key>
+		<string>详情</string>
+		<key>Back</key>
+		<string>返回</string>
+		<key>DATE</key>
+		<string>日期</string>
+		<key>DATE:</key>
+		<string>日期: %@</string>
+		<key>Date</key>
+		<string>日期</string>
+		<key>MacroNaviItems</key>
+		<array>
+			<dict>
+				<key>group</key>
+				<string>宏观</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>国内生产总值(累计)</string>
+						<key>leftAxis</key>
+						<string>34888</string>
+						<key>rightAxis</key>
+						<string>34889</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>第一产业增加值(累计)</string>
+						<key>leftAxis</key>
+						<string>20626</string>
+						<key>rightAxis</key>
+						<string>20627</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>第二产业增加值(累计)</string>
+						<key>leftAxis</key>
+						<string>20630</string>
+						<key>rightAxis</key>
+						<string>20631</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>第三产业增加值(累计)</string>
+						<key>leftAxis</key>
+						<string>20628</string>
+						<key>rightAxis</key>
+						<string>20629</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿千瓦小时)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>全国发电量当月</string>
+						<key>leftAxis</key>
+						<string>121548</string>
+						<key>rightAxis</key>
+						<string>121549</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>国家财政预算收入合计(累计)</string>
+						<key>leftAxis</key>
+						<string>21992</string>
+						<key>rightAxis</key>
+						<string>21993</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>全社会固定资产投资(累计)</string>
+						<key>leftAxis</key>
+						<string>21093</string>
+						<key>rightAxis</key>
+						<string>21094</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿美元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>外商直接投资(累计)</string>
+						<key>leftAxis</key>
+						<string>21975</string>
+						<key>rightAxis</key>
+						<string>21976</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>金融</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>广义货币余额(M2)</string>
+						<key>leftAxis</key>
+						<string>1007</string>
+						<key>rightAxis</key>
+						<string>1009</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>本月比年初新增</string>
+						</array>
+						<key>title</key>
+						<string>金融机构各项贷款余额</string>
+						<key>leftAxis</key>
+						<string>796</string>
+						<key>rightAxis</key>
+						<string>798</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>本月比年初新增</string>
+						</array>
+						<key>title</key>
+						<string>金融机构各项存款余额</string>
+						<key>leftAxis</key>
+						<string>873</string>
+						<key>rightAxis</key>
+						<string>875</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>消费与价格</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>上年同月=100</string>
+							<string></string>
+						</array>
+						<key>title</key>
+						<string>居民消费价格指数</string>
+						<key>leftAxis</key>
+						<string>21400</string>
+						<key>rightAxis</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>上年同月=100</string>
+							<string>上年累计同期=100</string>
+						</array>
+						<key>title</key>
+						<string>商品零售价格指数</string>
+						<key>leftAxis</key>
+						<string>21476</string>
+						<key>rightAxis</key>
+						<string>21477</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>全社会消费品零售总额当月</string>
+						<key>leftAxis</key>
+						<string>37115</string>
+						<key>rightAxis</key>
+						<string>37116</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>城镇消费品零售当月</string>
+						<key>leftAxis</key>
+						<string>37123</string>
+						<key>rightAxis</key>
+						<string>37124</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>乡村消费品零售当月</string>
+						<key>leftAxis</key>
+						<string>37125</string>
+						<key>rightAxis</key>
+						<string>37126</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>农村居民家庭人均现金收入(累计)</string>
+						<key>leftAxis</key>
+						<string>22039</string>
+						<key>rightAxis</key>
+						<string>22040</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>城镇家庭人均可支配收入(累计)</string>
+						<key>leftAxis</key>
+						<string>22021</string>
+						<key>rightAxis</key>
+						<string>22022</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>国际贸易</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿美元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>出口总值当月</string>
+						<key>leftAxis</key>
+						<string>21751</string>
+						<key>rightAxis</key>
+						<string>21752</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿美元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>进口总值当月</string>
+						<key>leftAxis</key>
+						<string>21763</string>
+						<key>rightAxis</key>
+						<string>21764</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿美元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>进出口总值(累计)</string>
+						<key>leftAxis</key>
+						<string>21759</string>
+						<key>rightAxis</key>
+						<string>21760</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿美元)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>贸易差额(累计)</string>
+						<key>leftAxis</key>
+						<string>21755</string>
+						<key>rightAxis</key>
+						<string>21756</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>group</key>
+				<string>工业</string>
+				<key>items</key>
+				<array>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿吨)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>公路货运量当月</string>
+						<key>leftAxis</key>
+						<string>100295</string>
+						<key>rightAxis</key>
+						<string>100296</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(亿吨)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>铁路货运量当月</string>
+						<key>leftAxis</key>
+						<string>100332</string>
+						<key>rightAxis</key>
+						<string>100333</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(万吨)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>航空货运量当月</string>
+						<key>leftAxis</key>
+						<string>100775</string>
+						<key>rightAxis</key>
+						<string>100776</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(辆)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>汽车产量当月</string>
+						<key>leftAxis</key>
+						<string>95799</string>
+						<key>rightAxis</key>
+						<string>95800</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(吨)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>原煤产量当月</string>
+						<key>leftAxis</key>
+						<string>120739</string>
+						<key>rightAxis</key>
+						<string>120740</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(吨)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>粗钢产量当月</string>
+						<key>leftAxis</key>
+						<string>71433</string>
+						<key>rightAxis</key>
+						<string>71434</string>
+					</dict>
+					<dict>
+						<key>titles</key>
+						<array>
+							<string>日期</string>
+							<string>价值(吨)</string>
+							<string>增长(%)</string>
+						</array>
+						<key>title</key>
+						<string>水泥产量当月</string>
+						<key>leftAxis</key>
+						<string>82350</string>
+						<key>rightAxis</key>
+						<string>82351</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Growth</key>
+		<string>增长点</string>
+		<key>Value</key>
+		<string>价值</string>
+		<key>VALUE</key>
+		<string>价值</string>
+		<key>GROWTH</key>
+		<string>增长</string>
+		<key>TapTipsOn</key>
+		<string>两指点击以全屏查看</string>
+		<key>TapTipsOff</key>
+		<string>两指点击以退出全屏</string>
+		<key>My Stock</key>
+		<string>我的股票</string>
+		<key>Edit</key>
+		<string>编辑</string>
+		<key>Stock</key>
+		<string>股票</string>
+		<key>Fund</key>
+		<string>基金</string>
+		<key>Bond</key>
+		<string>债券</string>
+		<key>StockFirstHeader</key>
+		<string>  股票              收盘价            涨跌          涨跌幅</string>
+		<key>News</key>
+		<string>新闻</string>
+		<key>Balance Sheet</key>
+		<string>资产负债表</string>
+		<key>Income Statement</key>
+		<string>利润表</string>
+		<key>Cash Flow</key>
+		<string>现金流量表</string>
+		<key>Info</key>
+		<string>资料</string>
+		<key>Intraday</key>
+		<string>实时</string>
+		<key>5 days</key>
+		<string>5天</string>
+		<key>1 month</key>
+		<string>1月</string>
+		<key>3 months</key>
+		<string>3月</string>
+		<key>1 year</key>
+		<string>1年</string>
+		<key>2 years</key>
+		<string>2年</string>
+		<key>Price</key>
+		<string>价格</string>
+		<key>IndustrySectorList</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>能源</string>
+				<key>Code</key>
+				<string>10</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>材料</string>
+				<key>Code</key>
+				<string>15</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>工业</string>
+				<key>Code</key>
+				<string>20</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>非日常生活消费品</string>
+				<key>Code</key>
+				<string>25</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>日常生活消费品</string>
+				<key>Code</key>
+				<string>30</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>医疗保健</string>
+				<key>Code</key>
+				<string>35</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>金融</string>
+				<key>Code</key>
+				<string>40</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>信息技术</string>
+				<key>Code</key>
+				<string>45</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>电信业务</string>
+				<key>Code</key>
+				<string>50</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>公共事业</string>
+				<key>Code</key>
+				<string>55</string>
+			</dict>
+		</array>
+		<key>LangCode</key>
+		<string>cn</string>
+		<key>MarketStockLongSentence1</key>
+		<string>%1$@ 拥有 %2$@ 亿元的最大流通市值 . %3$@ 拥有 %4$@ 亿元排名第二。 </string>
+		<key>MarketStockLongSentence2</key>
+		<string>%1$@ 今天的涨幅最高，达到%2$@%%。%3$@ 涨幅达%4$@%%排名第二。</string>
+		<key>MarketStockLongSentence3</key>
+		<string>%1$@ 今天的换手率最高，达到%3$@%%。%4$@ 换手率达%6$@%%排名第二。</string>
+		<key>Largest Market Cap</key>
+		<string>最大市值</string>
+		<key>Daily Top Gainer</key>
+		<string>当日涨幅最大</string>
+		<key>Highest Turnover(%)</key>
+		<string>换手率最高</string>
+		<key>Close:</key>
+		<string>收盘价:</string>
+		<key>CHG:</key>
+		<string>涨跌:</string>
+		<key>Company Info</key>
+		<string>公司资料</string>
+		<key>Up:</key>
+		<string>上涨公司数:</string>
+		<key>Down:</key>
+		<string>下跌公司数:</string>
+		<key>More</key>
+		<string>更多</string>
+		<key>Color</key>
+		<dict>
+			<key>Gainers</key>
+			<string>1.0,0.0,0.031,1.0</string>
+			<key>Decliners</key>
+			<string>0.0,0.608,0.247,1.0</string>
+			<key>GainersRate</key>
+			<string>1.0,0.0,0.031,1.0</string>
+			<key>LosersRate</key>
+			<string>0.0,0.608,0.247,1.0</string>
+			<key>GainersRateLabel</key>
+			<string>0.914,0.008,0.153,1.0</string>
+			<key>LosersRateLabel</key>
+			<string>0.05,0.4627,0.079,1.0</string>
+		</dict>
+		<key>This feature is unavailable with your current version of the application.</key>
+		<string>当前程序版本暂不支持此功能。</string>
+		<key>Ticker</key>
+		<string>代码或简拼</string>
+	</dict>
+</dict>
+</plist>

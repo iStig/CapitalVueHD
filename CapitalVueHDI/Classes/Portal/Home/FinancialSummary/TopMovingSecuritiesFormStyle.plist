@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Pivot</key>
+	<dict/>
+	<key>KeyColumn</key>
+	<integer>3</integer>
+	<key>Inc</key>
+	<string>FF006400</string>
+	<key>Dec</key>
+	<string>FFFF0000</string>
+	<key>Size</key>
+	<integer>14</integer>
+	<key>Align</key>
+	<integer>2</integer>
+	<key>Start</key>
+	<integer>1</integer>
+</dict>
+</plist>

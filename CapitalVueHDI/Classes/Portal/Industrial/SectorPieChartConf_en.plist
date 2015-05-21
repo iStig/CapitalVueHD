@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectorColor</key>
+	<array>
+		<string>FFED1C24</string>
+		<string>FFF15A24</string>
+		<string>FFF7931E</string>
+		<string>FF0071BC</string>
+		<string>FF8CC63F</string>
+		<string>FF29ABE2</string>
+		<string>FF662D91</string>
+		<string>FFED1E79</string>
+		<string>FF998675</string>
+		<string>FF754c24</string>
+	</array>
+</dict>
+</plist>

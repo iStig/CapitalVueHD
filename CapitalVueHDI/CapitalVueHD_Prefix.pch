@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'CapitalVueHD' target in the 'CapitalVueHD' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
+#import <CoreData/CoreData.h>
+#endif

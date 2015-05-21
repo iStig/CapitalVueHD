@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GainersRateColor</key>
+	<string>1.0,0.0,0.031,1.0</string>
+	<key>LosersRateColor</key>
+	<string>0.0,0.608,0.247,1.0</string>
+	<key>GainersRateLabelColor</key>
+	<string>0.914,0.008,0.153,1.0</string>
+	<key>LosersRateLabelColor</key>
+	<string>0.106,0.651,0.349,1.0</string>
+</dict>
+</plist>

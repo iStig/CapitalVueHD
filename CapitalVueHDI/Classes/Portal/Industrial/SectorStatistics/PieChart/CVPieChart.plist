@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Energy</key>
+	<string>FFFF0011</string>
+	<key>Materials</key>
+	<string>FF0FF000</string>
+	<key>Industrials</key>
+	<string>FF00FF00</string>
+	<key>Consumer Discretionary</key>
+	<string>FF000FF0</string>
+	<key>Consumer Staple</key>
+	<string>FF0000FF</string>
+	<key>Health Care</key>
+	<string>FFF0000F</string>
+	<key>Financials</key>
+	<string>FFFFF000</string>
+	<key>Information Technology</key>
+	<string>FF0FFF00</string>
+	<key>Telecommunication Service</key>
+	<string>FF00FFF0</string>
+</dict>
+</plist>
